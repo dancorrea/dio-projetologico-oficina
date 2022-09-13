@@ -1,2 +1,5 @@
-# dio-projetologico-oficina
-Projeto Lógico Oficina - Database Experience - DIO
+# DIO - Database Experience
+
+Projeto Lógico Banco de Dados Oficina.
+
+Bootcamp Data Innovation One.
